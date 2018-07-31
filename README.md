@@ -2,7 +2,7 @@
 
 An ultra-fast VueJS docs search workflow for Alfred 3.
 
-Adapted from [Alfred Laravel Docs](https://github.com/tillkruss/alfred-laravel-docs), Thanks Till Krüss!
+Adapted from [Alfred Laravel Docs](https://github.com/tillkruss/alfred-laravel-docs), Thanks [Till Krüss](https://github.com/tillkruss)!
 
 ![Screenshot](screenshot.png)
 
