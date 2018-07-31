@@ -4,6 +4,8 @@
 <dict>
 	<key>bundleid</key>
 	<string>com.vmitchell85.vuejs-docs</string>
+	<key>category</key>
+	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
 		<key>7B86D057-DA8E-4302-AF17-83B889B48EE2</key>
@@ -21,7 +23,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Vince mitchell</string>
+	<string>Vince Mitchell</string>
 	<key>description</key>
 	<string>An ultra-fast VueJS docs search workflow</string>
 	<key>disabled</key>
@@ -122,7 +124,7 @@
 		<string>master</string>
 	</dict>
 	<key>version</key>
-	<string>0.2.1</string>
+	<string>0.1.1</string>
 	<key>webaddress</key>
 	<string>https://vincemitchell.me</string>
 </dict>
