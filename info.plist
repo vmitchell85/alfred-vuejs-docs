@@ -118,11 +118,6 @@
 			<integer>90</integer>
 		</dict>
 	</dict>
-	<key>variables</key>
-	<dict>
-		<key>branch</key>
-		<string>master</string>
-	</dict>
 	<key>version</key>
 	<string>0.1.1</string>
 	<key>webaddress</key>
